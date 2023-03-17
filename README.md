@@ -1,0 +1,2 @@
+# app
+Anime Indexer App
