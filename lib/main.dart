@@ -73,7 +73,7 @@ class HomePage extends StatelessWidget {
             Align(
               alignment: Alignment.center,
               child: Padding(
-                padding: EdgeInsets.all(30.0),
+                padding: EdgeInsets.all(16.0),
                 child: TextField(
                 style: TextStyle(color: Color(0xFFF5F5F5)),
                 decoration: InputDecoration(
