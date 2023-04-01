@@ -62,15 +62,21 @@ class HomePage extends StatelessWidget {
           crossAxisAlignment: CrossAxisAlignment.center,
           children: <Widget>[
             Image.asset("assets/images/logo.png"),
-            if (UniversalPlatform.isDesktopOrWeb) ...[
+            if (UniversalPlatform.isDesktop | UniversalPlatform.isWeb) ...[
               SizedBox(
                 height: 14,
               ),
               Text("Just another anime search engine",
-                  style: GoogleFonts.inter()),
+                  style: GoogleFonts.poppins(
+                    textStyle: TextStyle(
+                                  color: Color(0xFFF5F5F5),
+                    )
+                    
+                    ),
+              ),
             ],
             SizedBox(
-              height: 37,
+              height: 27,
             ),
             Align(
               alignment: Alignment.center,
