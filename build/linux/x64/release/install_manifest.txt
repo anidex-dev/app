@@ -1,0 +1,12 @@
+/workspaces/app/build/linux/x64/release/bundle/anidex
+/workspaces/app/build/linux/x64/release/bundle/data/icudtl.dat
+/workspaces/app/build/linux/x64/release/bundle/lib/libflutter_linux_gtk.so
+/workspaces/app/build/linux/x64/release/bundle/data/flutter_assets/version.json
+/workspaces/app/build/linux/x64/release/bundle/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+/workspaces/app/build/linux/x64/release/bundle/data/flutter_assets/FontManifest.json
+/workspaces/app/build/linux/x64/release/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+/workspaces/app/build/linux/x64/release/bundle/data/flutter_assets/shaders/ink_sparkle.frag
+/workspaces/app/build/linux/x64/release/bundle/data/flutter_assets/NOTICES.Z
+/workspaces/app/build/linux/x64/release/bundle/data/flutter_assets/AssetManifest.json
+/workspaces/app/build/linux/x64/release/bundle/data/flutter_assets/assets/images/logo.png
+/workspaces/app/build/linux/x64/release/bundle/lib/libapp.so
